@@ -1,2 +1,3 @@
 # HardWay
-I want to express my gratitude to Zed Shaw, this book is really great for learning Python.
+I want to express my gratitude to Zed Shaw, his "Learn Python the Hard Way" is really great.
+
